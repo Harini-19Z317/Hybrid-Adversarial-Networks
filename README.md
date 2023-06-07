@@ -13,5 +13,5 @@ model involving Variational Autoencoder (VAE) and Generative Adversarial Network
 (GAN) for detecting anomalies in MIT-BIH Arrhythmia dataset which contains Electrocardiograms of 47 subjects, each with 140 data
 points.
 ![vae,discriminator](https://github.com/Harini-19Z317/Hybrid-Adversarial-Networks/assets/74368671/0f9fee0b-585f-4cb8-b2ad-65c5ee7fd658)
-![FPA](https://github.com/Harini-19Z317/Hybrid-Adversarial-Networks/assets/74368671/55fcb911-93bb-45a7-af3f-bebc82897c9d)
-![FPR](https://github.com/Harini-19Z317/Hybrid-Adversarial-Networks/assets/74368671/aa30b0a6-6372-40e5-93d4-ac2b234ff25d)
+![FPA](https://github.com/Harini-19Z317/Hybrid-Adversarial-Networks/assets/74368671/71b1daac-01d3-4da8-a05b-448385a03d87)
+![FPR](https://github.com/Harini-19Z317/Hybrid-Adversarial-Networks/assets/74368671/160c1458-c5f7-4673-ad0c-2687c97a58c6)
